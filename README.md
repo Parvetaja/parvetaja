@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/61088391-a405-4fd9-a2f4-391458ee1a33.svg)](https://wakatime.com/@61088391-a405-4fd9-a2f4-391458ee1a33)
+
+[About Me](https://www.linkedin.com/in/jan-parve/)
+
 <!--
 **Parvetaja/parvetaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
